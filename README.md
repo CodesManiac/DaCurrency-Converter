@@ -6,7 +6,7 @@ Site: [Currency Converter](https://da-currency-converter.netlify.app/)
 
 ## Main page
 
-![Main page](/src/images/preview.png)
+![Main page](./src/images/preview.png)
 
 A currency converting web App. Powered by React.
 
@@ -14,7 +14,7 @@ A currency converting web App. Powered by React.
 
 - RESTful API
 - Use of Hooks
--State management
+- State management
 
 
 ## Running the Project
